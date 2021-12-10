@@ -3,4 +3,7 @@
  
  <div>
   <img src=https://www.novaeraagricola.com.br/wp-content/uploads/2019/08/960-x-430-Hero-Banner.jpg>
- </div> 
+ </div>
+ 
+ # Compilar
+- gcc abc.c mtwister.c lib.c -o output
